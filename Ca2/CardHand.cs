@@ -11,6 +11,7 @@ namespace Ca2
         public string CardNumber { get;  set; }
         public string CardSuits { get;  set; }
         public int CardValue { get;  set; }
+
         
         public List<Card> Cards { get; set; }
 
